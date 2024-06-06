@@ -1,0 +1,31 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.person-details {
+  text-align: center;
+}
+.list-items-conntaner {
+  list-style-type: none;
+}
+
+.person-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.person-name {
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+}
+.person-description {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
